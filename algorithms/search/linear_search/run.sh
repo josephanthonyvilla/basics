@@ -39,6 +39,6 @@ go run $search.go
 echo ""
 
 # Clean build files
-rm linear_search
-rm linear_search.class
-rm linear_search.exe
+rm $search
+rm $search.class
+rm $search.exe
